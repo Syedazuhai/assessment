@@ -5,4 +5,8 @@
 4. functions.py
 5. loops.py
 6. listiops.py
-7. buggy_code.py
+7. file handlers
+8. Dictioneries
+9. modules
+10. buggy_code.py
+   
